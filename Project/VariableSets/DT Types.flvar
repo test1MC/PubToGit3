@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Name="On File Save" Comment="" Type="DateTimeFileSaved" LastUpdated="2016-02-23T21:29:03.1488841-08:00" EvaluatedDefinition="&quot;On File Save - &quot; MMMM dd, yyyy hh:mm:ss tt">"On File Save - " MMMM dd, yyyy hh:mm:ss tt</Variable>
+    <Variable Name="On&#160;Build" Comment="" Type="DateTimeProjectSaved" LastUpdated="2016-02-23T21:29:07.7648262-08:00" EvaluatedDefinition="&quot;On Build - &quot; MMMM dd, yyyy hh:mm:ss tt">"On Build - " MMMM dd, yyyy hh:mm:ss tt</Variable>
+    <Variable Name="Manually" Comment="" Type="DateTimeManual" LastUpdated="2016-02-23T21:29:07.9986194-08:00" EvaluatedDefinition="&quot;Manually - &quot; MMMM dd, yyyy hh:mm:ss tt">"Manually - " MMMM dd, yyyy hh:mm:ss tt</Variable>
+    <Variable Name="On File Creation" Comment="" Type="DateTimeFileCreated" LastUpdated="2016-02-23T21:29:08.1775645-08:00" EvaluatedDefinition="&quot;On File Creation - &quot; MMMM dd, yyyy hh:mm:ss tt">"On File Creation - " MMMM dd, yyyy hh:mm:ss tt</Variable>
+    <Variable Name="On Project Save" Comment="" Type="DateTimeProjectSaved" LastUpdated="2016-02-23T21:35:32.9796262-08:00" EvaluatedDefinition="&quot;On Project Save - &quot;MMMM dd, yyyy hh:mm:ss tt">"On Project Save - "MMMM dd, yyyy hh:mm:ss tt</Variable>
+</CatapultVariableSet>

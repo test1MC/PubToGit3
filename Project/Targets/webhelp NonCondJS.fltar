@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp" Destinations="" GlossaryTermConversion="marked" EnableFeedbackService="true" LiveHelpServer="http://ebrown02/Pulse/" LiveHelpKey="jgzf1-jjp07-929a0-befe0-48878-97dce-8e3a9-50ce1" MinifyJavaScript="false" ConditionTagExpression="exclude[Default.Eclipse or Default.h5_NoSkin_CondJS or Default.h5_NoSkin_NonCondJS or Default.h5_TopNav_CondJS or Default.h5_TopNav_NonCondJS or Default.h5_Tri_nonrespon_CondJS or Default.h5_Tri_nonrespon_NonCondJS or Default.h5_Tri_respon_CondJS or Default.h5_Tri_respon_NonCondJS or Default.webhelp_CondJS or Default.h5noneCONjs or Default.h5noneNotCONjs or Default.h5topCONjs or Default.h5topNotCONjs or Default.h5triCONjs or Default.h5triNotCONjs or &quot;Default.Not Ready for Publish&quot; or Default.PrintOnly or Default.ScreenOnly or Default.whCONjs] " Skin="/Project/Skins/webhelp.flskn">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Destinations>
+        <Destination Link="/Project/Destinations/webhelp NonCond.fldes" />
+    </Destinations>
+</CatapultTarget>

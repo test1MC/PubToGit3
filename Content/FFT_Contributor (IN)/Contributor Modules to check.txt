@@ -1,0 +1,103 @@
+Install/Uninstall
+General
+Crash Reports
+Performance: So far so good - Getting exception about character length
+Documentation
+Framework/MDI
+Localized UI
+Menus: Included in Testing grids
+Toolbars
+Browse Sequences
+File Tag Sets
+Glossary
+Project Properties
+Relationship Tables and Relationship Proxies
+Reports
+Search Filters
+Skins
+Synonyms
+Targets
+TOC
+Tools
+Annotations/Reviewing
+Auto Suggestion
+Backups/Diffs
+Build Window
+Colors
+Content Explorer
+Contributions
+External Resources
+File Explorer
+File List
+Find &amp; Find and Replace
+Font Families
+Hyphenation/Hyphenation Dictionaries
+Link Viewer
+Messages Pane
+Open With
+Project Organizer
+Ruler
+Save/Save as/Save to
+Sharepoint
+Source Control
+Spell Check/Dictionaries
+Templates
+Tools/Options
+Topic Properties
+Track Changes
+Undo/Redo Buffer
+Zip Project/Zip and Email Project/Unzip Project
+Integration
+Editing
+Absolute Positioning
+Attributes Window
+AutoNumbering
+Characters
+Conditions
+Concepts/Concept Proxies/Alinks
+Equations
+Footnotes &amp; Endnotes
+Formatting
+Grouping
+Help Controls - Related Topics
+Help Controls - Shortcut
+Images
+Images - ImageMaps
+Images - Thumbnails
+Index/Index Proxies/Klinks
+Internal Text Editor
+Links
+Bookmarks
+Drop-Down Text
+Expanding Text
+Hyperlinks &amp; Popups
+Text Popup
+Togglers
+X-Refs (Cross-References)
+List of/List of Proxies
+Lists
+Locked Elements
+Master Pages
+Mini-TOC
+Redacted Text
+Rulers (HR)
+Scripts
+SlideShow
+Snippets
+Styles Window
+Styles &amp; Stylesheets
+Table Styles
+Tables
+Text Boxes
+XML Editor
+XML Editor: Print Layout
+XML/XHTML Code
+508 Compliancy
+Command Line Compile
+-----------------------------------
+Other Modules from Flare to check?
+CSH, Alias and Header Files
+Internationalization
+Language Skins
+Output 
+Search

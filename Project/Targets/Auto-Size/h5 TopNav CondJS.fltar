@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" EnableFeedbackService="true" LiveHelpServer="http://ebrown02/Pulse/" LiveHelpKey="vsyd1-edta7-251d1-5f5c7-4db4b-50a33-797e1-11203" Skin="/Project/Skins/h5 TopNav.flskn" MenuSkin="/Project/Skins/h5top1menu.flskn" TopicToolbarSkin="/Project/Skins/h5top1toolbar.flskn" SearchBarSkin="/Project/Skins/h5top1searchbar.flskn" SearchResultsSkin="/Project/Skins/h5top1searchresults.flskn" MasterPage="/Content/Resources/MasterPages/KB_Master_Page.flmsp" ConditionTagExpression="exclude[Default.Eclipse or Default.h5_NoSkin_CondJS or Default.h5_NoSkin_NonCondJS or Default.h5_TopNav_NonCondJS or Default.h5_Tri_nonrespon_CondJS or Default.h5_Tri_nonrespon_NonCondJS or Default.h5_Tri_respon_CondJS or Default.h5_Tri_respon_NonCondJS or Default.webhelp_CondJS or Default.webhelp_NonCondJS or Default.h5noneCONjs or Default.h5noneNotCONjs or Default.h5topNotCONjs or Default.h5triCONjs or Default.h5triNotCONjs or &quot;Default.Not Ready for Publish&quot; or Default.PrintOnly or Default.ScreenOnly or Default.whCONjs or Default.whNotCONjs] ">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Destinations>
+        <Destination Link="/Project/Destinations/h5 TopNav CondJS.fldes" />
+    </Destinations>
+</CatapultTarget>

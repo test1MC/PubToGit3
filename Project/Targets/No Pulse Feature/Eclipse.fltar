@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="EclipseHelp" Destinations="" GlossaryTermConversion="marked" AutoSizeCaptureCaptions="true" ConditionTagExpression="exclude[Default.h5noneCONjs or Default.h5noneNotCONjs or Default.h5topCONjs or Default.h5topNotCONjs or Default.h5triCONjs or Default.h5triNotCONjs or &quot;Default.Not Ready for Publish&quot; or Default.PrintOnly or Default.ScreenOnly or Default.whCONjs or Default.whNotCONjs] " ExcludeUnreferencedContent="true">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+</CatapultTarget>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName">MadCap Software</Variable>
+    <Variable Comment="" Name="PhoneNumber">858 123 4567</Variable>
+    <Variable Name="Myvariable" Comment="" EvaluatedDefinition="My&#160;Variable">My&#160;Variable</Variable>
+    <Variable Name="MyDateTimeVariable" Comment="" Type="DateTime" LastUpdated="2016-02-17T09:36:56.7270150-08:00" EvaluatedDefinition="&quot;My On Build Date Time Variable&quot; hh:mm tt">"My On Build Date Time Variable" hh:mm tt</Variable>
+</CatapultVariableSet>

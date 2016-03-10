@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="MadCap HTML5 Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" MasterPage="/Content/Resources/MasterPages/KB_Master_Page.flmsp" MasterStylesheet="/Content/Resources/Stylesheets/Pulse.css" MasterStylesheetOverride="True" EnableFeedbackService="true" LiveHelpServer="http://ebrown02/Pulse/" LiveHelpKey="jkhl1-kzk3c-04bd9-28b24-473bb-ebffc-3c94f-91041" Skin="/Project/Skins/h5 Tri respon.flskn" MinifyJavaScript="false" ConditionTagExpression="exclude[Default.Eclipse or Default.h5_NoSkin_CondJS or Default.h5_NoSkin_NonCondJS or Default.h5_TopNav_CondJS or Default.h5_TopNav_NonCondJS or Default.h5_Tri_nonrespon_CondJS or Default.h5_Tri_nonrespon_NonCondJS or Default.h5_Tri_respon_CondJS or Default.webhelp_CondJS or Default.webhelp_NonCondJS or Default.h5noneCONjs or Default.h5noneNotCONjs or Default.h5topCONjs or Default.h5topNotCONjs or Default.h5triCONjs or Default.PrintOnly or Default.ScreenOnly or Default.whCONjs or Default.whNotCONjs] " ServerEnabled="false" AliasFile="/Project/Advanced/MyAliasFile.flali">
+    <Destinations>
+        <Destination Link="/Project/Destinations/h5 Tri respon NonCondJS.fldes" />
+    </Destinations>
+</CatapultTarget>

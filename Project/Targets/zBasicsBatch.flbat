@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget Version="1" Comment="New Batch Target" Guid="0e108a4f-15c8-4541-940a-9c27fb0e8bfb">
+    <Targets>
+        <Target Icon="System.Drawing.Bitmap" Name="webhelp NonCondJS" Type="WebHelp" Build="true" Publish="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/XPS" Type="XPS" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/XHTML" Type="XHTML Book" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/Word" Type="Word" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/whMob" Type="WebHelp Mobile" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/PDF" Type="PDF" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/has tab - wont work/dotnet-nonCondJS" Type="DotNet Help" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/has tab - wont work/dotNET" Type="DotNet Help" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/has tab - wont work/CHM" Type="HTML Help" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/Frame" Type="FrameMaker" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/EPUB" Type="EPUB" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/Eclipse" Type="Eclipse Help" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="No Pulse Feature/DITA" Type="DITA" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="h5 Tri respon NonCondJS" Type="HTML5" Build="true" Publish="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="h5 Tri nonrespon NonCondJS" Type="HTML5" Build="true" Publish="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="h5 TopNav NonCondJS" Type="HTML5" Build="true" Publish="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="h5 NoSkin NonCondJS" Type="HTML5" Build="true" Publish="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Auto-Size/whPLUS" Type="WebHelp Plus" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="Auto-Size/whAIR" Type="WebHelp AIR" Build="false" />
+        <Target Icon="System.Drawing.Bitmap" Name="Auto-Size/webhelp CondJS" Type="WebHelp" Build="true" Publish="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Auto-Size/h5 Tri respon CondJS" Type="HTML5" Build="true" Publish="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Auto-Size/h5 Tri nonrespon CondJS" Type="HTML5" Build="true" Publish="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Auto-Size/h5 TopNav CondJS" Type="HTML5" Build="true" Publish="true" />
+        <Target Icon="System.Drawing.Bitmap" Name="Auto-Size/h5 NoSkin CondJS" Type="HTML5" Build="true" Publish="true" />
+    </Targets>
+</CatapultBatchTarget>

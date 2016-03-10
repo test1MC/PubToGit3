@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" AutoSizeCaptureCaptions="true" Skin="(none)" SearchBarSkin="/Project/Skins/h5top1searchbar.flskn" MinifyJavaScript="false" EnableFeedbackService="false" LiveHelpServer="http://ebrown02/Pulse/" LiveHelpKey="ulls1-dxx93-e16d8-1ad70-4dada-072cf-7594a-2160b" ConditionTagExpression="exclude[Default.Eclipse or Default.h5_NoSkin_CondJS or Default.h5_TopNav_CondJS or Default.h5_TopNav_NonCondJS or Default.h5_Tri_nonrespon_CondJS or Default.h5_Tri_nonrespon_NonCondJS or Default.h5_Tri_respon_CondJS or Default.h5_Tri_respon_NonCondJS or Default.webhelp_CondJS or Default.webhelp_NonCondJS or Default.h5noneCONjs or Default.h5topCONjs or Default.h5topNotCONjs or Default.h5triCONjs or Default.h5triNotCONjs or &quot;Default.Not Ready for Publish&quot; or Default.PrintOnly or Default.ScreenOnly or Default.whCONjs or Default.whNotCONjs] " MasterStylesheet="/Content/Resources/Stylesheets/Pulse.css" MasterToc="/Project/TOCs/testing.fltoc" ExcludeUnreferencedContent="true">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Destinations>
+    </Destinations>
+</CatapultTarget>

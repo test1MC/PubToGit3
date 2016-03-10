@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelpAir" Destinations="" GlossaryTermConversion="marked" AutoSizeCaptureCaptions="true" EnableFeedbackService="true" LiveHelpServer="http://ebrown02/Pulse/" LiveHelpKey="sjxb1-cjq26-6d8b6-c15c6-4753a-e7701-d9686-fbe2d">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+</CatapultTarget>

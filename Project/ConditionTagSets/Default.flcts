@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+    <ConditionTag Comment="" Name="ScreenOnly" BackgroundColor="Blue" />
+    <ConditionTag Comment="" Name="NotInTopNav" BackgroundColor="Red" />
+    <ConditionTag BackgroundColor="#c72959" Name="Do not build" Comment="" />
+</CatapultConditionTagSet>

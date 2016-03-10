@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination Version="1" Comment="This is my publish destination" Host="appserver01" User="MyAccountId" Password="" Directory="/john/anonymous" Port="55" ViewUrl="ftp://appserver01:55/john/anonymous" Type="ftp" ConnectionMode="Active" AnonymousLogin="true">
+</CatapultDestination>

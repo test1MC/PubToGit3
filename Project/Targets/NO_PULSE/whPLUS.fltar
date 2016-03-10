@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelpPlus" Destinations="" GlossaryTermConversion="marked" LiveHelpServer="http://ebrown02/Pulse/" LiveHelpKey="vmvs1-avie3-24c42-c875b-41a2b-75620-3d19a-d860d" EnableFeedbackService="false" MasterToc="/Project/TOCs/testing.fltoc" ExcludeUnreferencedContent="true">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Destinations>&#160;</Destinations>
+</CatapultTarget>

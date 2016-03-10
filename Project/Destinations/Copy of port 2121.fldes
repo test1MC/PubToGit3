@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination Version="1" Comment="This is my publish destination" Host="appserver01" User="MyAccountId" Password="" Directory="/john/2121b" Port="2121" ViewUrl="ftp://test1@appserver01:2121/john/2121b/Default.htm" Type="ftp" ConnectionMode="Active">
+</CatapultDestination>

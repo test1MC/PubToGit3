@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" EnableFeedbackService="false" LiveHelpServer="http://ebrown02/Pulse/" LiveHelpKey="zlky1-joy4c-6e1e7-e6d8c-49249-33a1e-e3be8-25f9f" Skin="/Project/Skins/h5 TopNav.flskn" MenuSkin="/Project/Skins/h5top1menu.flskn" TopicToolbarSkin="/Project/Skins/h5top1toolbar.flskn" SearchBarSkin="/Project/Skins/h5top1searchbar.flskn" SearchResultsSkin="/Project/Skins/h5top1searchresults.flskn" MasterPage="/Content/Resources/MasterPages/KB_Master_Page.flmsp" MinifyJavaScript="false" ConditionTagExpression="exclude[Default.Eclipse or Default.h5noneCONjs or Default.h5noneNotCONjs or Default.h5topCONjs or Default.h5triCONjs or Default.h5triNotCONjs or &quot;Default.Not Ready for Publish&quot; or Default.PrintOnly or Default.ScreenOnly or Default.whCONjs or Default.whNotCONjs] " MasterToc="/Project/TOCs/testing.fltoc" ExcludeUnreferencedContent="true">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Destinations>
+    </Destinations>
+</CatapultTarget>

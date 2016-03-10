@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp" Destinations="" GlossaryTermConversion="marked" MasterToc="/Project/TOCs/testing1.fltoc" ExcludeUnreferencedContent="true" Skin="/Project/Skins/webhelp.flskn">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Destinations>
+        <Destination Link="/Project/Destinations/Copy of anonymous.fldes" />
+    </Destinations>
+</CatapultTarget>
